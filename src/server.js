@@ -39,5 +39,5 @@ app.use('/api/agendamentos/', agendamentosRoutes);
 app.use('/api/agendamentos-pg/', agendamentosRoutesPg);
 
 app.listen(port, hostname, () => {
-  console.log(`Servidor rodando no endereço: http://${hostname}:${port}`);
+  console.log(`Servidor rodando no endereçoooooo: http://${hostname}:${port}`);
 });
